@@ -1,0 +1,25 @@
+{
+  "name": "employee-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "empdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epw1389/Employee-Database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epw1389/Employee-Database/issues"
+  },
+  "homepage": "https://github.com/epw1389/Employee-Database#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
