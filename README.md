@@ -15,7 +15,7 @@ A content management system for managing a company's employees using node, inqui
 * Users can update roles data (title, salary and department).
 * Users can delete departments, roles, and employees.
 * Users can view employees by manager. 
-* Users can view the total utilized budget of a department -- ie the combined salaries of all employees in that department
+
 ​
 ​
 ## Setup/Installation Requirements
@@ -25,7 +25,7 @@ A content management system for managing a company's employees using node, inqui
 * enter your MySQL username and password in empdb.js
 * use the empdbSchema.sql content to create the database
 * [optional] populate the database by executing content of db/seed.sql
-* run command: node server.js
+* run command: node empdb.js
 ​
 ​
 ​
@@ -35,5 +35,5 @@ Node.js, MySQL
 
 
 ​
-Direct link to site: 
+
 ​
